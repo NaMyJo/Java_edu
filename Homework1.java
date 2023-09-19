@@ -37,7 +37,7 @@ public class Homework1 {
 
         System.out.println("정수를 입력하세요: ");
         int num5 = sc.nextInt();
-        arr[4] = num;
+        arr[4] = num5;
         add= add+ num5;
         System.out.printf("현재까지 입력한 정수의 합은 %d입니다.\n",add);
 
